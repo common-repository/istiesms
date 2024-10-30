@@ -1,0 +1,880 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: IstieSMS\n"
+"POT-Creation-Date: 2013-01-29 02:46+0100\n"
+"PO-Revision-Date: 2013-01-29 03:31+0100\n"
+"Last-Translator: Istiecool <istiecool@xs4all.nl>\n"
+"Language-Team: Istiecool <istiecool@xs4all.nl>\n"
+"Language: Dutch\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: D:\n"
+"X-Poedit-SearchPath-0: My Documents\\@_Istiecool_Software\\Programming"
+"\\_Wordpress\\ic_plugins\\istie-sms___v0.5\n"
+"X-Poedit-SearchPath-1: My Documents\\@_Istiecool_Software\\Programming"
+"\\_Wordpress\\ic_plugins\\istie-sms___v0.5\\admin\n"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/istie-sms.php:26
+msgid ""
+"Deze plugin vereist WordPress version 3.1 of nieuwer; Update je systeem "
+"eerst a.u.b."
+msgstr "This plugin needs Wordpress 3.1 or newer; Please update your system."
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/istie-sms.php:197
+msgid "Sorry, IstieSMS works only with a role called administrator"
+msgstr "Sorry, IstieSMS works only with a role called administrator"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_contacts.php:61
+msgid "Contacten"
+msgstr "Contacts"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_contacts.php:63
+msgid ""
+"Op deze pagina kun je een eigen adresboek samenstellen. Mensen die je "
+"regelmatig een SMS-bericht stuurt, zet je in je adresboek. Zo hoef je de 06-"
+"nummers niet te onthouden en kun je nog makkelijker SMS-berichten sturen."
+msgstr ""
+"On this page you can compose your own address book. People you regularly "
+"send a text message, put in your address book. So you do the 06 numbers you "
+"can not remember and even easier to send SMS messages."
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_contacts.php:65
+msgid ""
+"Ook kun je je persoonlijke gegevens aanvullen en eventueel een SMS-rekening "
+"openen. Het voordeel van een eigen SMS-rekening is dat je geen credits hoeft "
+"te kopen maar dat je aan het einde van de maand je verstuurde SMS-berichten "
+"afrekent. Je krijgt dan een rekening thuis gestuurd met een overzicht van "
+"het aantal gestuurde SMS-berichten. Je betaalt dus achteraf voor de "
+"werkelijk verstuurde SMS-berichten. Heb je niks verstuurd? Dan betaal je ook "
+"niks!"
+msgstr ""
+"You can also complement your personal information and possibly opening an "
+"SMS account. The advantage of an own SMS account is that you do not need to "
+"buy credits but that at the end of the month your sent SMS messages settles. "
+"You get a bill sent with an overview of the number of sent SMS messages. You "
+"therefore pay retrospectively for the truly sent SMS messages. Have you sent "
+"anything? Then you pay nothing!"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_contacts.php:67
+msgid ""
+"Meer uitleg over elk onderwerp lees je door te klikken op Persoonlijk "
+"Adresboek of SMS-rekening."
+msgstr ""
+"More information on any topic you can read by clicking the Personal Address "
+"Book or SMS account."
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_contacts.php:77
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_contacts.php:80
+msgid "Persoonlijk adresboek"
+msgstr "Personal addressbook"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_contacts.php:89
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_contacts.php:92
+msgid "SMS-rekening"
+msgstr "SMS-account"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_credits.php:63
+msgid ""
+"Credits heb je nodig om sms-berichten te versturen of te agenderen. Het "
+"versturen van 1 sms-bericht kost je 1 credit. Bij Prijslijst kun je zien wat "
+"de kosten zijn. Ga naar Credits kopen om deze aan te schaffen, als je "
+"betaling binnen is worden deze op je account bijgeschreven. Je kunt dan "
+"direct je eigen sms-berichten versturen."
+msgstr ""
+"You need credits to send SMS messages. Sending 1 SMS will cost you 1 credit. "
+"Check the pricelist were you can see what the costs are. Go to Buy credits "
+"to purchase, if your payment has been received the credits will be added to "
+"your account. Then you can send your SMS messages."
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_credits.php:72
+msgid "Credits bijkopen."
+msgstr "Buy credits"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_credits.php:91
+msgid ""
+"Je hebt geen credits om sms-berichten te versturen. <a href=\"\">Credits "
+"kopen</a><br/>"
+msgstr ""
+"You don't have any credits to send text-messages. <a href=\"\">Buy credits</"
+"a><br/>"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_credits.php:97
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_send.php:87
+msgid "Je hebt nog <b>"
+msgstr "You're having"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_credits.php:101
+msgid ""
+"Kies het juiste aantal credits en klik op Bestel. Er wordt meteen een "
+"aanvraag voor nieuwe credits gedaan."
+msgstr ""
+"Choose the amount en click order. An immediate demand for new credits will "
+"be done."
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_credits.php:120
+msgid "Het aantal credits is niet duidelijk"
+msgstr "The number of credits is not clear"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_credits.php:123
+msgid "De betalingswijze is niet duidelijk"
+msgstr "The payment method is not clear"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_credits.php:126
+msgid ""
+"De SMS module is nog niet geactiveerd. Neem contact op met de beheerder van "
+"de site"
+msgstr ""
+"The SMS module is not yet activated. Contact the administrator of the site"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_credits.php:133
+msgid "Er zijn <strong>"
+msgstr "There are"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_credits.php:158
+msgid "<p>Er ging iets mis met bestellen, probeer het later nog eens.</p>"
+msgstr "<p>Something went wrong with ordering, please try again later.</p>"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_credits.php:172
+msgid "Aantal:"
+msgstr "Number:"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_credits.php:180
+msgid "Betalingsmethode"
+msgstr "payment Method"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_credits.php:182
+msgid "Vooruitbetaling"
+msgstr "Prepayment"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_credits.php:183
+msgid "Online (Wellicht in nabije toekomst mogelijk)"
+msgstr "Online (Perhaps in near future)"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_credits.php:195
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_send.php:401
+msgid "N.B."
+msgstr "P.S."
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_credits.php:196
+msgid ""
+"Door op de knop Bestel te klikken wordt er een email verstuurd naar het door "
+"jou opgegeven mailadres ("
+msgstr ""
+"By clicking on the Order button an email will be sent to the address "
+"specified by you ("
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_credits.php:198
+msgid ""
+") met daarin verdere uitleg en betalingsgegevens. Als de betaling binnen is "
+"worden de aangevraagde credits op je account bijgeschreven."
+msgstr ""
+") Containing additional explanations and payment information. If the payment "
+"is received the applied credits will be added to your account."
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_credits.php:210
+msgid "Prijslijst"
+msgstr "Pricelist"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_credits.php:228
+msgid "Prijzen van meer credits op aanvraag."
+msgstr "Prices for more credits available on request."
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_history.php:61
+msgid "Overzicht"
+msgstr "Summary"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_history.php:63
+msgid ""
+"Op deze pagina staat een overzicht van de sms-berichten die je al hebt "
+"verstuurd en van de berichten die in de toekomst zullen worden verstuurd "
+"(geagendeerd)."
+msgstr ""
+"This page contains a list of SMS messages that you have already sent and the "
+"messages will be sent in the future (scheduled)."
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_history.php:64
+msgid "Berichten kunnen niet meer worden veranderd."
+msgstr "Messages can not be changed."
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_history.php:74
+msgid "Geagendeerde sms-berichten"
+msgstr "Scheduled SMS messages"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_history.php:172
+msgid ""
+"Overzicht van de geagendeerde sms-berichten, klik op verwijder om het "
+"bericht niet te versturen. De creditkosten worden automatisch "
+"teruggeschreven op je account."
+msgstr ""
+"Overview of the scheduled SMS messages, click to remove the message to send. "
+"The credit cost will be automatically written back to your account."
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_history.php:177
+msgid ""
+"<strong>Geagendeerde sms-berichten</strong> (deze staan klaar om verstuurd "
+"te worden)"
+msgstr ""
+"<strong> Scheduled SMS  messages</ strong> (these are ready to be sent)"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_history.php:181
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_history.php:282
+msgid "Datum"
+msgstr "Date"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_history.php:182
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_history.php:283
+msgid "Tijd"
+msgstr "Time"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_history.php:183
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_history.php:284
+msgid "Afzender"
+msgstr "Sender"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_history.php:184
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_history.php:285
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_send.php:319
+msgid "Ontvanger"
+msgstr "Receiver"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_history.php:185
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_history.php:286
+msgid "sms-bericht"
+msgstr "sms message"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_history.php:186
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_history.php:287
+msgid "Kosten"
+msgstr "Costs"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_history.php:187
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_history.php:288
+msgid "Verwijder"
+msgstr "Delete"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_history.php:243
+msgid "Verstuurde sms-berichten"
+msgstr "Send messages"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_history.php:267
+msgid "SMS bericht verwijderd."
+msgstr "SMS message deleted"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_history.php:278
+msgid ""
+"<strong>Reeds verstuurde sms-berichten</strong> (meest recente bovenaan)"
+msgstr "<strong>Already sent sms messages </ strong> (most recent at top)"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_send.php:67
+msgid "Versturen van sms-berichten"
+msgstr "Sending sms messages"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_send.php:69
+msgid ""
+"Vul het onderstaand formulier in en je SMS wordt verstuurd op de door jou "
+"opgegeven tijd en datum."
+msgstr ""
+"Fill out the form below and your SMS will be sent at the specified time and "
+"date."
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_send.php:70
+msgid ""
+"Het versturen van 1 sms-bericht kost 1 credit. De credits worden, bij "
+"succesvolle verzending, automatisch van je account afgeschreven."
+msgstr ""
+"Sending one SMS message costs 1 credit. The credits are, in successful "
+"transmission, automatically debited from your account."
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_send.php:71
+msgid ""
+"Alle geplande en verzonden berichten kun je bekijken op de <a href=\"admin."
+"php?page=istie-sms/sms_history.php\">overzichtspagina</a>."
+msgstr ""
+"All scheduled and sent messages can be viewed on the <a href=\"admin.php?"
+"page=istie-sms/sms_history.php\">overview page </ a>."
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_send.php:83
+msgid ""
+"Je hebt geen credits om sms-berichten te versturen. <a href=\"\">Credits "
+"kopen</a>"
+msgstr "You have no credits for SMS messages. <a href=\"\">Buy credits </ a>"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_send.php:92
+msgid "Stuur SMS"
+msgstr "Send SMS"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_send.php:155
+msgid "Naam van afzender is verplicht."
+msgstr "Name of sender is required."
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_send.php:159
+msgid "Naam van de afzender is te lang. (max 11 tekens)"
+msgstr "Name of the sender is too long. (max 11 characters)"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_send.php:162
+msgid "Geen ontvanger opgegeven."
+msgstr "No recipient specified."
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_send.php:165
+msgid ""
+"Bij ontvanger kun je alleen cijfers invullen (het 06-nummer van de "
+"ontvanger)."
+msgstr ""
+"The receiver can only be in digits (the mobile number of the receiver)."
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_send.php:168
+msgid "Telefoonnummer is te kort."
+msgstr "Phone is too short."
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_send.php:171
+msgid "Geen sms bericht geschreven."
+msgstr "No SMS message written."
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_send.php:174
+msgid ""
+"De verzendtijd van het bericht ligt in het verleden. Pas de datum of de tijd "
+"aan."
+msgstr ""
+"The transmission time of the message is in the past. Adjust the date or time."
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_send.php:177
+msgid "Geen datum opgegeven."
+msgstr "No date given."
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_send.php:180
+msgid "Bij de datum kun je alleen cijfers invullen."
+msgstr "The date can only be in digits."
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_send.php:183
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_send.php:186
+msgid "Er gaat iets mis met het invullen van de datum of de tijd."
+msgstr "Something went wrong with filling in the date or time."
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_send.php:189
+msgid "Tijd is niet compleet ingevuld. (uren)"
+msgstr "Time is not completely filled. (hours)"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_send.php:192
+msgid "Bij de tijd (uren) kun je alleen cijfers invullen."
+msgstr "At the time (hours) you can only fill in digits."
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_send.php:195
+msgid "Uren zijn te kort ingevuld. (gebruik 0 in notatie bijv: 09:05)"
+msgstr "Hours are completed shortly. (use 0 in format eg: 09:05)"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_send.php:198
+msgid "Tijd is niet compleet ingevuld. (min)"
+msgstr "Time is not completely filled. (min)"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_send.php:201
+msgid "Bij de tijd (minuten) kun je alleen cijfers invullen."
+msgstr "At the time (minutes) you can only fill in digits."
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_send.php:204
+msgid "Minuten zijn te kort ingevuld. (gebruik 0 in notatie bijv: 09:05)"
+msgstr "Minutes are to be completed shortly. (use 0 in format eg: 09:05)"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_send.php:207
+msgid ""
+"De SMS module is nog niet geactiveerd. Neem contact op met de beheerder van "
+"de site."
+msgstr ""
+"The SMS module is not yet activated. Contact the administrator of the site."
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_send.php:284
+msgid ""
+"Ook voor sms-berichten die op een later tijdstip verzonden moeten worden, "
+"wordt direct 1 credit van je account afgeschreven."
+msgstr ""
+"For SMS messages to be sent later, an immediate 1 credit will be debited "
+"from your account."
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_send.php:285
+#, fuzzy
+msgid ""
+"Op de <a href=\"admin.php?page=istie-sms/sms_credits.php\">bestelpagina</a> "
+"staat een prijsoverzicht en kun je nieuwe credits aanvragen bij de beheerder "
+"van <?php echo home_url(); ?>."
+msgstr ""
+"On the <a href=\"admin.php?page=istie-sms/sms_credits.php\">order page </ a> "
+"is a pricelist and you can apply for new credits to the administrator of <? "
+"Php echo home_url (); ?>."
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_send.php:296
+msgid "Je bent onderstaande vergeten of hebt het verkeerd ingevuld:"
+msgstr "You filled in wrong or forgot something:"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_send.php:304
+msgid "Huidige datum en tijd:"
+msgstr "Current date and time:"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_send.php:310
+msgid "Je Naam"
+msgstr "Name"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_send.php:317
+msgid ""
+"Vul hier je naam of 06-nummer in. Dit is dan de afzender van het SMS-bericht."
+msgstr ""
+"Enter your name or mobile number. This is the sender of the SMS message."
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_send.php:326
+msgid ""
+"Vul hier het nummer van de ontvanger in zonder landcode en 06 (Dus: "
+"06-12345678 als: 12345678)"
+msgstr ""
+"Enter the number of the recipient without country code and 06 (So: "
+"06-12345678 as: 12345678)"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_send.php:329
+msgid "SMS bericht"
+msgstr "SMS message"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_send.php:339
+msgid "Typ je SMS-bericht (max. 160 tekens per bericht)"
+msgstr "Type your text message (max. 160 characters per message)"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_send.php:343
+msgid "Datum & Tijd"
+msgstr "Date & Time"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_send.php:344
+msgid ""
+"Kies de juiste datum en de exacte tijd wanneer je bericht moet worden "
+"verzonden."
+msgstr ""
+"Choose the correct date and the exact time when your message should be sent."
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_send.php:383
+msgid "Vul de tijd in 24-uurs formaat in (bijv. 21:05)."
+msgstr "Enter the time in 24-hour format (eg 21:05)."
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_send.php:401
+msgid ""
+"Door op de knop verzenden te klikken wordt er meteen een sms-bericht "
+"verstuurd. "
+msgstr "By clicking the submit button to be immediately an SMS message sent."
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/sms_send.php:401
+msgid ""
+"Het is mogelijk om sms-berichten die in je <a href=\"admin.php?page=istie-"
+"sms/sms_history.php\">overzicht</a> staan te annuleren of te verwijderen. "
+"Voor het verwijderen van berichten die nog niet zijn verstuurd krijg je "
+"natuurlijk ook weer 1 credit terug."
+msgstr ""
+"It is possible to cancel or delete SMS messages in your <a href=\"admin.php?"
+"page=istie-sms/sms_history.php\">overview </ a>. Deleting messages that have "
+"not been sent you will of course get your credit(s) back."
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/admin/sms_options.php:62
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5\admin/sms_options.php:62
+msgid "IstieSMS instellingen"
+msgstr "IstieSMS settings"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/admin/sms_options.php:64
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5\admin/sms_options.php:64
+msgid ""
+"Zorg dat alle onderstaande instellingen goed zijn ingevuld om gebruikers "
+"zelf sms-berichten te laten sturen of te agenderen"
+msgstr ""
+"Ensure that all of the following settings are correct to make it able for "
+"users to send SMS messages to or schedule them."
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/admin/sms_options.php:73
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5\admin/sms_options.php:73
+msgid "API Instellingen voor Mollie"
+msgstr "API Settings Mollie"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/admin/sms_options.php:80
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5\admin/sms_options.php:80
+msgid ""
+"Onderstaande instellingen zijn de gebruikersnaam en wachtwoord welke je ook "
+"gebruikt om in te loggen bij <a href=\"http://www.mollie.nl\" target=\"_blank"
+"\">Mollie.nl</a> Om werkelijk sms-berichten te versturen via deze plugin is "
+"het dus vereist om een account bij Mollie te hebben."
+msgstr ""
+"The following settings are the username and password that you use to log in "
+"to <a href=\"http://www.mollie.nl\" target=\"_blank\"> Mollie.nl </ a> To be "
+"truly SMS messages via this plugin, it is required to have an account with "
+"Mollie."
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/admin/sms_options.php:95
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5\admin/sms_options.php:95
+msgid "API Instellingen bewaard"
+msgstr "API settings saved"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/admin/sms_options.php:105
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5\admin/sms_options.php:105
+msgid "Gebruikersnaam:"
+msgstr "Username:"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/admin/sms_options.php:109
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5\admin/sms_options.php:109
+msgid "Wachtwoord:"
+msgstr "Password:"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/admin/sms_options.php:127
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5\admin/sms_options.php:127
+msgid "Credits prijslijst"
+msgstr "Credits pricelist"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/admin/sms_options.php:134
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5\admin/sms_options.php:134
+msgid ""
+"Gebruikers kunnen 10, 20, of 50 credits kopen. Prijzen van credits voor de "
+"gebruikers van deze site kun je zelf bepalen door onderstaande te veranderen."
+msgstr ""
+"Users can buy 10, 20, or 50 credits. Prices of credits for the users of this "
+"site you can choose yourself."
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/admin/sms_options.php:158
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5\admin/sms_options.php:158
+msgid "Credit prijzen bewaard"
+msgstr "Credits prices saved"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/admin/sms_options.php:168
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/admin/sms_options.php:173
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/admin/sms_options.php:178
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5\admin/sms_options.php:168
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5\admin/sms_options.php:173
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5\admin/sms_options.php:178
+msgid "Kosten voor:"
+msgstr "Costs:"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/admin/sms_options.php:170
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/admin/sms_options.php:175
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/admin/sms_options.php:180
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5\admin/sms_options.php:170
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5\admin/sms_options.php:175
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5\admin/sms_options.php:180
+msgid " (Kosten per credit = &euro; "
+msgstr "(Cost per credit = €"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/admin/sms_options.php:195
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5\admin/sms_options.php:195
+msgid "Gegevens SMS beheerder"
+msgstr "Settings SMS administrator"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/admin/sms_options.php:200
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5\admin/sms_options.php:200
+msgid ""
+"Onderstaande gegevens worden gebruikt tijdens een bestelling van nieuwe SMS-"
+"credits van een gebruiker. Na een bestelling ontvangt de gebruiker een email "
+"met betalingsinstructie. Indien de verplichte velden niet zijn ingevuld is "
+"het niet mogelijk om credits te bestellen."
+msgstr ""
+"The following data are used during an order of new SMS credits from a user. "
+"After placing an order, the user receives an email with payment "
+"instructions. If the required fields are not filled, it is not possible to "
+"transfer credits to order."
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/admin/sms_options.php:228
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5\admin/sms_options.php:228
+msgid "Gegevens beheerder bewaard"
+msgstr "Settings administrator saved"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/admin/sms_options.php:238
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5\admin/sms_options.php:238
+msgid "Naam:"
+msgstr "Name:"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/admin/sms_options.php:240
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5\admin/sms_options.php:240
+msgid "Naam van de afzender als een gebruiker nieuwe credits bestelt."
+msgstr "Name of the sender as a user orders new credits."
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/admin/sms_options.php:243
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5\admin/sms_options.php:243
+msgid "Email:"
+msgstr "Email:"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/admin/sms_options.php:245
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5\admin/sms_options.php:245
+msgid "Email afzender bij bestelling nieuwe credits."
+msgstr "Email sender when ordering new credits."
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/admin/sms_options.php:248
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5\admin/sms_options.php:248
+msgid "Bankrekening:"
+msgstr "Bankaccount:"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/admin/sms_options.php:250
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5\admin/sms_options.php:250
+msgid ""
+"Bankrekening waarnaar de gebruiker geld kan overmaken om credits te kopen."
+msgstr "Bank account to which the user can transfer money to purchase credits."
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/admin/sms_options.php:253
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5\admin/sms_options.php:253
+msgid "T.n.v.:"
+msgstr ""
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/admin/sms_options.php:255
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5\admin/sms_options.php:255
+msgid "Naam waarop bovenstaand rekeningnummer staat geregistreerd."
+msgstr "Name in which the above account is registered."
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/admin/sms_options.php:258
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5\admin/sms_options.php:258
+msgid "Banknaam:"
+msgstr "Bank name"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/admin/sms_options.php:260
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5\admin/sms_options.php:260
+msgid "Naam van de Bank"
+msgstr "Name of the bank"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/admin/sms_options.php:263
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5\admin/sms_options.php:263
+msgid "Plaats:"
+msgstr "Place"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/admin/sms_options.php:265
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5\admin/sms_options.php:265
+msgid "Plaats van bankvestiging."
+msgstr "Place of bank branch."
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/admin/sms_options.php:268
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5\admin/sms_options.php:268
+msgid "Velden met een * zijn verplicht."
+msgstr "Fields with * are mandatory."
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/admin/sms_options.php:285
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5\admin/sms_options.php:285
+msgid "Algemeen"
+msgstr "General"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/admin/sms_options.php:288
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5\admin/sms_options.php:288
+msgid ""
+"M.b.v. deze plugin is het mogelijk om sms-berichten via je website te "
+"versturen. Ook kun je sms-berichten agenderen om ze op een later tijdstip te "
+"kunnen versturen.<br/>\n"
+"\tEen account bij <a href=\"http://www.mollie.nl\" target=\"_blank\">Mollie</"
+"a> is vereist. Vervolgens kun je bij mollie credits kopen (sms sturen is nog "
+"niet gratis...) en de API instellingen voor account invoeren bij de "
+"instellingen van deze plugin."
+msgstr ""
+"With this plugin it is possible to send SMS messages via your website. You "
+"can also schedule SMS messages at a later time to send. <br/>An free account "
+"at <a href=\"http://www.mollie.nl\" target=\"_blank\">Mollie</ a> is "
+"required. You can buy credits from Mollie (sms is not free ...) and fill in "
+"the API settings for your account at the settings of this plugin."
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/admin/sms_options.php:297
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5\admin/sms_options.php:297
+msgid "Donatie"
+msgstr "Donate"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/admin/sms_options.php:300
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5\admin/sms_options.php:300
+msgid ""
+"Het ontwikkelen van deze plugin kost energie en vrije tijd. Voor vragen, "
+"wensen of opmerkingen over deze plugin kun je een mail sturen naar de <a "
+"href=\"mailto:info@istiecool.nl?subject=WP-sms-plugin\">ontwikkelaar</a>. "
+"Ben je tevreden of wil je de (verdere) ontwikkeling van deze plugin steunen "
+"dan wordt een donatie zeer op prijs gesteld."
+msgstr ""
+"The development of this plugin requires energy and free time. For questions "
+"or comments about this plugin you can send an email to <a href=\"mailto:"
+"info@istiecool.nl?subject=WP-sms-plugin\">the developer</ a>. Are you "
+"satisfied or do you want the (further) development of this plugin support "
+"then a donation is higly appreciated."
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/includes/icsms_functions.php:102
+msgid "IstieSMS | Info"
+msgstr "IstieSMS | Info"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/includes/icsms_functions.php:103
+msgid "Lees de extra informatie en verander de instellingen voor je website."
+msgstr "Read the additional information and change the settings for your site."
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/includes/icsms_functions.php:138
+msgid "Deze gebruiker"
+msgstr "This user"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/includes/icsms_functions.php:138
+msgid "heeft geen credits om sms-berichten te versturen."
+msgstr "has no credits for SMS messages."
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/includes/icsms_functions.php:140
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/includes/icsms_functions.php:184
+msgid ""
+"Je hebt geen credits om sms-berichten te versturen. <a href=\"admin.php?"
+"page=istie-sms/sms_credits.php\">Credits kopen</a>"
+msgstr ""
+"You have no credits for SMS messages. <a href=\"admin.php?page=istie-sms/"
+"sms_credits.php\">Buy credits</ a>"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/includes/icsms_functions.php:146
+msgid "Deze gebruiker heeft nog"
+msgstr "This user has"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/includes/icsms_functions.php:149
+msgid "Je hebt nog maar"
+msgstr "You only have"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/includes/icsms_functions.php:149
+msgid ""
+"credits om sms-berichten te versturen. <a href=\"admin.php?page=istie-sms/"
+"sms_credits.php\">Credits kopen</a>"
+msgstr ""
+"credits for SMS messages. <a href=\"admin.php?page=istie-sms/sms_credits.php"
+"\">Buy credits</ a>"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/includes/icsms_functions.php:157
+msgid "SMS afzender"
+msgstr "SMS sender"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/includes/icsms_functions.php:160
+msgid ""
+"Vul je naam of 06-nummer in. Dit wordt gebruikt als standaard afzender van "
+"je sms-berichten. (max. 11 tekens)"
+msgstr ""
+"Enter your name or mobile number. This is used as the default sender of your "
+"SMS messages. (max. 11 characters)"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/includes/icsms_functions.php:167
+msgid "Beschikbare credits"
+msgstr "Available credits"
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/includes/icsms_functions.php:170
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/includes/icsms_functions.php:188
+msgid ""
+"Het aantal credits welke je kunt gebruiken om sms-berichten te versturen (1 "
+"SMS = 1 credit)."
+msgstr ""
+"The number of credits which you can use to send text messages (1 SMS = 1 "
+"credit)."
+
+#: My
+#: Documents\@_Istiecool_Software\Programming\_Wordpress\ic_plugins\istie-sms___v0.5/includes/icsms_functions.php:177
+msgid "Beschikbare Credits"
+msgstr "Available credits"
